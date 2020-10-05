@@ -1,118 +1,71 @@
-  <rss xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:media="http://search.yahoo.com/mrss/"
-    xmlns:snf="http://www.smartnews.be/snf" version="2.0">
-    <channel>
-      <title>BuzzFeed News - World</title>
-      <link>https://www.buzzfeednews.com</link>
-      <atom:link href="https://www.buzzfeednews.com/section/world.xml" rel="self"/>
-      <language>en</language>
-      <copyright>Copyright 2020 BuzzFeed, Inc.</copyright>
-      <description>BuzzFeed, Reporting To You</description>
-      <lastBuildDate>Mon, 05 Oct 2020 08:29:29 +0000</lastBuildDate>
-      <managingEditor>editor@buzzfeed.com (https://www.buzzfeednews.com/article/buzzfeednews/about-buzzfeed-news)</managingEditor>
-      <webMaster>editor@buzzfeed.com (https://www.buzzfeednews.com/article/buzzfeednews/about-buzzfeed-news)</webMaster>
-      <image>
-        <url>https://www.buzzfeednews.com/static-assets/img/bfn-logo-small.png</url>
-        <title>BuzzFeed News - World</title>
-        <link>https://www.buzzfeednews.com</link>
-      </image>
-      <item>
-        <title>Startups In India Want To Build Their Own App Store To Bypass Google's</title>
-        <description>
-        <![CDATA[   
-            <div class="primary" style="width: 100%; max-width: 430px; margin: 0px auto;">
-              <a style="text-decoration:none"
-                href="https://blog-develop.arbotena.de/blog/detail/stress-lass-nach-fur-mehr-ruhe-im-alltag">
-                <div class="primary-img" style="display: flex; justify-content: center; margin: 40px auto auto 0px;"><img
-                    src="https://uppic.cc/d/yS7c" alt="" width="430px" height="205.99px"></div>
-                <div class="primary-title"
-                  style="display: flex; justify-content: center; margin: 26px auto auto 0px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 32px; line-height: 37px; color: #000000;">
-                  <div class="text" style="width: 100%; max-width: 430px;">
-                    Odio sem pulvinar in quam sed nulla id sed.
-                  </div>
-                </div>
-                <div calss="primary-short-description"
-                  style="display: flex; justify-content: center; margin: 20px auto auto 0px;">
-                  <div class="text-second"
-                    style="width: 100%; max-width: 430px; font-family: Roboto; font-style: normal; font-weight: normal; font-size: 18px; line-height: 28px; color: #7B7B7B;">
-                    Nunc habitant morbi sit nunc. Sit vulputate
-                    porta...</div>
-                </div>
-              </a>
-            </div>
-        ]]>
-        </description>
-        <link>https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</link>
-        <pubDate>Mon, 05 Oct 2020 08:29:29 +0000</pubDate>
-        <guid isPermaLink="false">https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</guid>
-        <media:thumbnail url="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/1/22/campaign_images/80a44771aaab/startups-in-india-want-to-build-their-own-app-sto-2-2650-1601591859-34_dblbig.jpg"/>
-        <dc:creator>Pranav Dixit</dc:creator>
-      </item>
-      <item>
-        <title>Startups In India Want To Build Their Own App Store To Bypass Google's</title>
-        <description>
-          <![CDATA[     
-        <div class="secondary">
-        <a style="text-decoration:none; display: flex; justify-content: center; width: 100%; max-width: 430px; margin: 45px auto 0px auto;" href="https://blog-develop.arbotena.de/blog/detail/superfoods--wie-super-sind-sie-wirklich">
-          <div class="secondary-img"><img src="https://uppic.cc/d/yS7d" alt="" width="80px" height="80px"></div>
-          <div class="secondary-title" style="margin-left: 31px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 18px; line-height: 21px;letter-spacing: 0.6px; color: #000000;">
-            At nunc tristique vestibulum sit cras felis amet amet, amet.</div>
-        </a>
-      </div>
-  ]]>
-        </description>
-        <link>https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</link>
-        <pubDate>Sun, 04 Oct 2020 04:29:29 +0000</pubDate>
-        <guid isPermaLink="false">https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</guid>
-        <media:thumbnail url="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/1/22/campaign_images/80a44771aaab/startups-in-india-want-to-build-their-own-app-sto-2-2650-1601591859-34_dblbig.jpg"/>
-        <dc:creator>Pranav Dixit</dc:creator>
-      </item>
-
-      <item>
-        <title>Startups In India Want To Build Their Own App Store To Bypass Google's</title>
-        <description>
-          <![CDATA[     
-      <div class="secondary">
-        <a style="text-decoration:none; display: flex; justify-content: center; width: 100%; max-width: 430px; margin: auto; margin: 28px auto 0px auto;" href="https://blog-develop.arbotena.de/blog/detail/unser-darm-7-dinge-die-dich-uberraschen-werden">
-          <div class="secondary-img"><img src="https://uppic.cc/d/yS7e" alt="" width="80px" height="80px"></div>
-          <div class="secondary-title" style="margin-left: 31px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 18px; line-height: 21px;letter-spacing: 0.6px; color: #000000;">
-            At nunc tristique vestibulum sit cras felis amet amet, amet.</div>
-        </a>
-      </div>
-  ]]>
-        </description>
-        <link>https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</link>
-        <pubDate>Sun, 04 Oct 2020 04:29:29 +0000</pubDate>
-        <guid isPermaLink="false">https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</guid>
-        <media:thumbnail url="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/1/22/campaign_images/80a44771aaab/startups-in-india-want-to-build-their-own-app-sto-2-2650-1601591859-34_dblbig.jpg"/>
-        <dc:creator>Pranav Dixit</dc:creator>
-      </item>
-      <item>
-        <title>Startups In India Want To Build Their Own App Store To Bypass Google's</title>
-        <description>
-          <![CDATA[     
-      <div class="secondary">
-        <a style="text-decoration:none; display: flex; justify-content: center; width: 100%; max-width: 430px; margin: auto; margin: 28px auto 0px auto;" href="https://blog-develop.arbotena.de/blog/detail/gelbes-superfood--5-gute-grunde-fur-kurkuma">
-          <div class="secondary-img"><img src="https://uppic.cc/d/yS8J" alt="" width="80px" height="80px"></div>
-          <div class="secondary-title" style="margin-left: 31px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 18px; line-height: 21px;letter-spacing: 0.6px; color: #000000;">
-            At nunc tristique vestibulum sit cras felis amet amet, amet.</div>
-        </a>
-      </div>
-  ]]>
-        </description>
-        <link>https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</link>
-        <pubDate>Sun, 04 Oct 2020 04:29:29 +0000</pubDate>
-        <guid isPermaLink="false">https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</guid>
-        <media:thumbnail url="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/1/22/campaign_images/80a44771aaab/startups-in-india-want-to-build-their-own-app-sto-2-2650-1601591859-34_dblbig.jpg"/>
-        <dc:creator>Pranav Dixit</dc:creator>
-      </item>
-
-    </channel>
-  </rss>
-
-
-
-
-
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>
+      <![CDATA[ Your Site's RSS Feed ]]>
+    </title>
+    <description>
+      <![CDATA[ Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need. ]]>
+    </description>
+    <link>https://blog.arbotena.de</link>
+    <generator>GatsbyJS</generator>
+    <lastBuildDate>Mon, 05 Oct 2020 08:34:24 GMT</lastBuildDate>
+    <item>
+      <title>
+        <![CDATA[ Stress, lass nach: Für mehr Ruhe im Alltag ]]>
+      </title>
+      <description>
+        <![CDATA[ <div class="primary" style="width: 100%; max-width: 430px; margin: 0px auto;"> <a href="https://blog.arbotena.de/blog/detail/stress-lass-nach-fur-mehr-ruhe-im-alltag" style="text-decoration: none;"> <div class="primary-img" style="display: flex; justify-content: center; margin: 40px auto auto 0px;"> <img src="https://images.prismic.io/blogs-arbotena/d99a1708-2c52-4594-902c-ec7ee7671d73_Blog+-+image.jpg?auto=compress,format" alt="Stress, lass nach: Für mehr Ruhe im Alltag" style="width: 430px; height: 205px;" /> </div> <div class="primary-title" style="display: flex; justify-content: center; margin: 26px auto auto 0px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 32px; line-height: 37px; color: #000000;"> <div class="text" style="width: 100%; max-width: 430px;"> Stress, lass nach: Für mehr Ruhe im Alltag </div> </div> <div class="primary-short-description" style="display: flex; justify-content: center; margin: 20px auto auto 0px;"> <div class="text-second" style="width: 100%; max-width: 430px; font-family: Roboto; font-style: normal; font-weight: normal; font-size: 18px; line-height: 28px; color: #7B7B7B;"> Deutschland ist im Stress! Das zeigt die Stressstudie der Techniker Krankenkasse6. Lange To-do-Listen im Job, ständige Erreichbarkeit, Zeitdruck oder Reizüberflutung – ob beruflich oder privat, unser Alltag ist oftmals hektisch; die Tage prall gefüllt mit Terminen. Stress entsteht. Doch was ist Stress eigentlich genau? Und was passiert im Körper? </div> </div> </a> </div> ]]>
+      </description>
+      <link>https://blog.arbotena.de/blog/detail/stress-lass-nach-fur-mehr-ruhe-im-alltag</link>
+      <guid isPermaLink="true">https://blog.arbotena.de/blog/detail/stress-lass-nach-fur-mehr-ruhe-im-alltag</guid>
+      <pubDate>Mon, 05 Oct 2020 08:34:24 GMT</pubDate>
+      <image_link>
+        <img src="https://images.prismic.io/blogs-arbotena/d99a1708-2c52-4594-902c-ec7ee7671d73_Blog+-+image.jpg?auto=compress,format" />
+      </image_link>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ Superfoods – wie super sind sie wirklich? ]]>
+      </title>
+      <description>
+        <![CDATA[ <div class="primary" style="width: 100%; max-width: 430px; margin: 0px auto;"> <a href="https://blog.arbotena.de/blog/detail/superfoods--wie-super-sind-sie-wirklich" style="text-decoration: none;"> <div class="primary-img" style="display: flex; justify-content: center; margin: 40px auto auto 0px;"> <img src="https://images.prismic.io/blogs-arbotena/4bb674db-60a1-48db-a6df-e5349cd13f01_Image.jpg?auto=compress,format" alt="Superfoods – wie super sind sie wirklich?" style="width: 430px; height: 205px;" /> </div> <div class="primary-title" style="display: flex; justify-content: center; margin: 26px auto auto 0px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 32px; line-height: 37px; color: #000000;"> <div class="text" style="width: 100%; max-width: 430px;"> Superfoods – wie super sind sie wirklich? </div> </div> <div class="primary-short-description" style="display: flex; justify-content: center; margin: 20px auto auto 0px;"> <div class="text-second" style="width: 100%; max-width: 430px; font-family: Roboto; font-style: normal; font-weight: normal; font-size: 18px; line-height: 28px; color: #7B7B7B;"> Eins steht fest – gesunde Ernährung liegt im Trend. Schon in 2017 legte einer Ernährungsstudie zufolge jeder Zweite in Deutschland Wert auf gesunde Ernährung. Ende 2019 waren es dann schon bis zu 75 Prozent der Befragten: Sie gaben an, dass die eigene Gesundheit der wichtigste Beweggrund der eigenen Ernährung sei. In diesem Zuge haben auch die sogenannten Superfoods Einzug in die Regale und auf den Tellern gehalten. Acaibeeren, Matchatee, Chiasamen, Macapulver oder Chlorella-Algen – sie alle kommen aus fernen Ländern und haben ihre gesundheitsfördernden Eigenschaften in der dortigen Ernährungsweise unter Beweis gestellt. Schön sollen sie uns machen, fit und allem gesund – dieser Ruf eilt ihnen voraus. Doch hält er auch, was er verspricht? Wir schauen hin! </div> </div> </a> </div> ]]>
+      </description>
+      <link>https://blog.arbotena.de/blog/detail/superfoods--wie-super-sind-sie-wirklich</link>
+      <guid isPermaLink="true">https://blog.arbotena.de/blog/detail/superfoods--wie-super-sind-sie-wirklich</guid>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+      <image_link>
+        <img src="https://images.prismic.io/blogs-arbotena/4bb674db-60a1-48db-a6df-e5349cd13f01_Image.jpg?auto=compress,format" />
+      </image_link>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ Unser Darm: 7 Dinge, die dich überraschen werden ]]>
+      </title>
+      <description>
+        <![CDATA[ <div class="primary" style="width: 100%; max-width: 430px; margin: 0px auto;"> <a href="https://blog.arbotena.de/blog/detail/unser-darm-7-dinge-die-dich-uberraschen-werden" style="text-decoration: none;"> <div class="primary-img" style="display: flex; justify-content: center; margin: 40px auto auto 0px;"> <img src="https://images.prismic.io/blogs-arbotena/0cfcdb72-19f1-4702-8bee-83c5fb183c56_Image+%285%29.png?auto=compress,format" alt="Unser Darm: 7 Dinge, die dich überraschen werden" style="width: 430px; height: 205px;" /> </div> <div class="primary-title" style="display: flex; justify-content: center; margin: 26px auto auto 0px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 32px; line-height: 37px; color: #000000;"> <div class="text" style="width: 100%; max-width: 430px;"> Unser Darm: 7 Dinge, die dich überraschen werden </div> </div> <div class="primary-short-description" style="display: flex; justify-content: center; margin: 20px auto auto 0px;"> <div class="text-second" style="width: 100%; max-width: 430px; font-family: Roboto; font-style: normal; font-weight: normal; font-size: 18px; line-height: 28px; color: #7B7B7B;"> Unser Darm – niemand spricht gerne darüber. Doch warum eigentlich? Vollbringt er doch tagtäglich Hochleistungen für uns. Denn er kann viel mehr, als wir vielleicht zunächst glauben. </div> </div> </a> </div> ]]>
+      </description>
+      <link>https://blog.arbotena.de/blog/detail/unser-darm-7-dinge-die-dich-uberraschen-werden</link>
+      <guid isPermaLink="true">https://blog.arbotena.de/blog/detail/unser-darm-7-dinge-die-dich-uberraschen-werden</guid>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 GMT</pubDate>
+      <image_link>
+        <img src="https://images.prismic.io/blogs-arbotena/0cfcdb72-19f1-4702-8bee-83c5fb183c56_Image+%285%29.png?auto=compress,format" />
+      </image_link>
+    </item>
+    <item>
+      <title>
+        <![CDATA[ Gelbes Superfood – 5 gute Gründe für Kurkuma ]]>
+      </title>
+      <description>
+        <![CDATA[ <div class="primary" style="width: 100%; max-width: 430px; margin: 0px auto;"> <a href="https://blog.arbotena.de/blog/detail/gelbes-superfood--5-gute-grunde-fur-kurkuma" style="text-decoration: none;"> <div class="primary-img" style="display: flex; justify-content: center; margin: 40px auto auto 0px;"> <img src="https://images.prismic.io/blogs-arbotena/f177b24d-390a-4f23-a047-18a3d43dcfbf_Banner+image+-+Kurkuma.png?auto=compress,format" alt="Gelbes Superfood – 5 gute Gründe für Kurkuma" style="width: 430px; height: 205px;" /> </div> <div class="primary-title" style="display: flex; justify-content: center; margin: 26px auto auto 0px; font-family: Roboto; font-style: normal; font-weight: 300; font-size: 32px; line-height: 37px; color: #000000;"> <div class="text" style="width: 100%; max-width: 430px;"> Gelbes Superfood – 5 gute Gründe für Kurkuma </div> </div> <div class="primary-short-description" style="display: flex; justify-content: center; margin: 20px auto auto 0px;"> <div class="text-second" style="width: 100%; max-width: 430px; font-family: Roboto; font-style: normal; font-weight: normal; font-size: 18px; line-height: 28px; color: #7B7B7B;"> Kurkuma – die leuchtend gelbe Knolle, zumeist bekannt aus dem klassischen Curry-Gewürz, schmeckt nicht nur gut, sondern ist ein echtes Allroundtalent in Sachen Gesundheit. Hätten nicht zahlreiche medizinische Studien es belegt, man könnte es kaum glauben. </div> </div> </a> </div> ]]>
+      </description>
+      <link>https://blog.arbotena.de/blog/detail/gelbes-superfood--5-gute-grunde-fur-kurkuma</link>
+      <guid isPermaLink="true">https://blog.arbotena.de/blog/detail/gelbes-superfood--5-gute-grunde-fur-kurkuma</guid>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 GMT</pubDate>
+      <image_link>
+        <img src="https://images.prismic.io/blogs-arbotena/f177b24d-390a-4f23-a047-18a3d43dcfbf_Banner+image+-+Kurkuma.png?auto=compress,format" />
+      </image_link>
+    </item>
+  </channel>
+</rss>
