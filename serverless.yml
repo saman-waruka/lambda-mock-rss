@@ -56,3 +56,21 @@ functions:
          response:
            headers:
             Content-Type: "text/xml"
+  rss4:            
+    handler: handler.rss4
+    events:
+     - http:
+         path: mock-rss-4
+         method: get
+         response:
+           headers:
+            Content-Type: "text/xml"
+  rss5:            
+    handler: handler.rss5
+    events:
+     - http:
+         path: mock-rss-5
+         method: get
+         response:
+           headers:
+            Content-Type: "text/xml"
