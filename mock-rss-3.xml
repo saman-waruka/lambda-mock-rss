@@ -1,0 +1,44 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:snf="http://www.smartnews.be/snf" version="2.0">
+  <channel>
+    <title>BuzzFeed News - World</title>
+    <link>https://www.buzzfeednews.com</link>
+    <atom:link href="https://www.buzzfeednews.com/section/world.xml" rel="self"/>
+    <language>en</language>
+    <copyright>Copyright 2020 BuzzFeed, Inc.</copyright>
+    <description>BuzzFeed, Reporting To You</description>
+    <lastBuildDate>Mon, 05 Oct 2020 04:29:29 +0000</lastBuildDate>
+    <managingEditor>editor@buzzfeed.com (https://www.buzzfeednews.com/article/buzzfeednews/about-buzzfeed-news)</managingEditor>
+    <webMaster>editor@buzzfeed.com (https://www.buzzfeednews.com/article/buzzfeednews/about-buzzfeed-news)</webMaster>
+    <image>
+      <url>https://www.buzzfeednews.com/static-assets/img/bfn-logo-small.png</url>
+      <title>BuzzFeed News - World</title>
+      <link>https://www.buzzfeednews.com</link>
+    </image>
+    <item>
+      <title>Startups In India Want To Build Their Own App Store To Bypass Google's</title>
+      <description>
+        <![CDATA[ <h1>To avoid paying a 30% cut, Indian tech companies are looking for new ways to get apps in the hands of consumers.</h1><p><img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/1/22/campaign_images/80a44771aaab/startups-in-india-want-to-build-their-own-app-sto-2-2650-1601591859-34_dblbig.jpg" alt=""/></p><hr /><p><a href="https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store">View Entire Post &rsaquo;</a></p> ]]>
+      </description>
+      <link>https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</link>
+      <pubDate>Thu, 01 Oct 2020 15:15:22 -0400</pubDate>
+      <guid isPermaLink="false">https://www.buzzfeednews.com/article/pranavdixit/indian-startups-play-store</guid>
+      <media:thumbnail url="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/1/22/campaign_images/80a44771aaab/startups-in-india-want-to-build-their-own-app-sto-2-2650-1601591859-34_dblbig.jpg"/>
+      <dc:creator>Pranav Dixit</dc:creator>
+    </item>
+
+ 
+
+ 
+
+
+
+
+
+
+
+  </channel>
+</rss>

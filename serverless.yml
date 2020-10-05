@@ -47,3 +47,12 @@ functions:
          response:
            headers:
             Content-Type: "text/xml"
+  rss3:            
+    handler: handler.rss3
+    events:
+     - http:
+         path: mock-rss-3
+         method: get
+         response:
+           headers:
+            Content-Type: "text/xml"
